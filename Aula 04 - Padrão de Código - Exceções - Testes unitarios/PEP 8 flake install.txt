@@ -1,0 +1,10 @@
+Enable linters#
+
+To enable linters other than the default PyLint, open the Command Palette (Ctrl+Shift+P) 
+and select the Python: Select Linter command. 
+
+Select flake8
+
+install flake8
+
+Enabling a linter prompts you to install the required packages in your selected environment for the chosen linter.

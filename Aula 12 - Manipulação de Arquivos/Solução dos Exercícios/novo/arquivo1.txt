@@ -1,0 +1,1 @@
+Escreva um programa que leia um arquivo de texto contendo uma lista de endereços IP e gere dois outros arquivos, um arquivo contendo os endereços IP válidos e outro contendo os endereços IP inválidos. 

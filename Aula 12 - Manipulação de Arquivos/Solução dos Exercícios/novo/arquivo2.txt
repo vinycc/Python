@@ -1,0 +1,3 @@
+Utilize o bloco de notas para criar dois arquivos de texto. Um arquivo apenas com números pares, e outro apenas com números ímpares.
+Coloque um número em cada linha do arquivo. Os números podem estar em qualquer ordem.
+Faça um programa que abra os dois arquivos e gere um terceiro arquivo com todos os números, em ordem crescente. Deve ser colocado um número em cada linha.

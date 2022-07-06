@@ -1,0 +1,5 @@
+- No VSCode use o atalho 'CTRL+SHIFT+P'
+- Na janela que abrir, busque pela opção 'python: select Interpreter'
+- Selecione essa opção e na sequencia, selecione a versão mais recente do Python.
+- Na sequência, instale o pacote novamente no terminal: pip install sqlalchemy
+ 
